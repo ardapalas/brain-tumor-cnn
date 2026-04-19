@@ -48,6 +48,14 @@ Total parameters: **590,084**
 | Scheduler | ReduceLROnPlateau |
 | Loss | CrossEntropyLoss |
 
+### Training Curves
+
+![Training Curves](assets/training_curves.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](assets/confusion_matrix.png)
+
 ### Per-class Performance
 
 | Class | Precision | Recall | F1-Score |
